@@ -30,7 +30,7 @@ public class BotMain {
 
         DefaultShardManagerBuilder builder = DefaultShardManagerBuilder.createDefault("OTA3MzE3NDI3NjMxNjkzODI0.YYlbMw.TVc1jSP6fG8dPu3eU2xuwg8E7M4");
 
-        builder.setActivity(Activity.playing("mit deiner Mum."));
+        builder.setActivity(Activity.playing("with JDA."));
 
         builder.setStatus(OnlineStatus.ONLINE);
 
